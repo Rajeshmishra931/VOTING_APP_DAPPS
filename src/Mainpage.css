@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.mainpage {
+  height: 100vh;
+  width: auto;
+  background: grey;
+  color: black;
+}
+
+.navbar {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 20px;
+  width: 100%;
+  align-items: center;
+}
+.imgg {
+  padding: 5px 20px;
+  display: flex;
+}
+
+.simple {
+  font-weight: 100;
+  font-size: 60px;
+  margin-left: 70px;
+  margin-top: 100px;
+}
+.imagexyz {
+  height: 450px;
+  width: 50%;
+}
+.unordered {
+  list-style: none;
+}
+
+.lists {
+  display: inline;
+  margin-right: 50px;
+  padding: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid white;
+  color: black;
+  border-radius: 25px;
+}

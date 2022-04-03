@@ -1,0 +1,49 @@
+.backg{
+    height: 100vh;
+    width: 350px;
+    padding-top: 30px;
+    background-color: #04AA6D;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.managed{
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    margin-top: 120px;
+    font-size: 12px;
+}
+
+.tag{
+    border: 0;
+    height: 0;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-top: 2px solid white;
+    border-bottom: none;
+}
+
+.name{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.li111{
+    padding-top: 30px;
+    text-align: center;
+    
+}
+
+.ul111{
+    list-style: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 30px;
+    cursor: pointer;
+}

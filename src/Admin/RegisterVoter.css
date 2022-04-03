@@ -1,0 +1,33 @@
+.registervoter{
+    width: 80%;
+    padding: 30px 30px;
+    height: 100vh;
+   overflow-y: scroll;
+    
+}
+
+.approve{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btnn1{
+    background-color: green;
+    border: 1px solid green;
+    padding: 5px 10px;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+.btnn2{
+    background-color: red;
+    border: 1px solid red;
+    padding: 5px 10px;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}

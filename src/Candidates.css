@@ -1,0 +1,43 @@
+.voter1{
+    height:200px;
+    width:80%;
+    border:1px solid black;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.image{
+    height: 188px;
+    width: 200px;
+   
+}
+.m1{
+    font-weight: 500;
+}
+.m2{
+    font-weight: 200;
+}
+
+.m3{
+    font-weight: 200;
+}
+
+.details{
+    margin-left: 30px;
+    font-weight: 100;
+    margin-top: 20px;
+    width: 70%;
+}
+
+.button{
+
+    padding: 10px 20px;
+    font-size: 20px;
+    height: max-content;
+    cursor: pointer;
+    margin-top: 80px;
+    margin-right: 20px;
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+}

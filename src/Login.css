@@ -1,0 +1,115 @@
+
+
+.page11{
+
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 0px;
+    
+}
+.he111{
+    font-size: 25px;
+}
+
+.bbbb11{
+    border: 1px solid red;
+    font-size: 20px;
+    padding: 2px 5px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+}
+
+
+
+.login11{
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    left:55%;
+    top:80px;
+}
+.fiel11{
+    display: flex;
+    flex-direction: column;
+}
+
+.heh11{
+    text-align: center;
+    font-size: 40px;
+}
+
+.des111{
+    outline: none;
+    border: 1px solid gray;
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 40px;
+    margin-top: 20px;
+    height: 40px;
+    width: 370px;
+
+}
+
+.des211{
+    outline: none;
+    border: 1px solid gray;
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 40px;
+    margin-top: 20px;
+    height: 40px;
+    width: 370px;
+
+}
+
+.btnsub11{
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    height: 30px;
+    margin: auto;
+    width: 220px;
+    margin-top: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+
+    
+}
+
+.google11{
+    margin: auto;
+    border: 1px solid red;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    color: white;
+    margin-top: 20px ;
+    align-items: center;
+    justify-content: first baseline;
+    width: 230px;
+    border-radius: 40px;
+
+
+}
+
+.btnsub111{
+    border: none;
+    cursor: pointer;
+}
+
+.photodisp111{
+    width: 500px;
+    height: 450px;
+    
+}
+
+.img111{
+    position: absolute;
+    top: 110px;
+}

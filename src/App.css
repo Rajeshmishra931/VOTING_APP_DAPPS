@@ -1,0 +1,17 @@
+.home1 {
+  display: flex;
+}
+
+.homepage {
+  position: sticky;
+  overflow-y: hidden;
+}
+
+.voting {
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.adminhome {
+  display: flex;
+}
